@@ -50,7 +50,4 @@ I moduli `rules.py`, `scoring.py`, `generator.py`, `models.py` **non importano p
 pytest tests/
 ```
 
-## Autori
 
-- [Nome 1]
-- [Nome 2]
