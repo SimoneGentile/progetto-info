@@ -1,3 +1,4 @@
+
 # main.py
 # Punto di partenza del gioco. Gestisce:
 #   - inizializzazione pygame
